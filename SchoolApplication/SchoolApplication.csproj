@@ -209,7 +209,7 @@
     <Content Include="Models\SchoolModel.edmx.diagram">
       <DependentUpon>SchoolModel.edmx</DependentUpon>
     </Content>
-    <None Include="Properties\PublishProfiles\schoolWebapplication - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\RainbowSchoolWebApp - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
     <Content Include="Scripts\jquery-3.4.1.min.js" />
